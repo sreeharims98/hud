@@ -1,0 +1,7 @@
+{
+  "name": "hud",
+  "version": "0.1.0",
+  "description": "A minimal HUD on the hint line under the prompt: model, effort, context fill, rate limits and session cost",
+  "author": { "name": "sreehari" },
+  "types": "./types/index.d.ts"
+}
