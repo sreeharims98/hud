@@ -24,7 +24,7 @@ Type `/hud` to hide it, and `/hud` again to bring it back.
 At the prompt of a Claude Code terminal session:
 
 ```
-/plugin install hud --marketplace iamsreeharims/hud
+/plugin install hud --marketplace sreeharims98/hud
 ```
 
 Answer `y` to add the marketplace, then pick a scope (user scope loads it in every session).
@@ -32,8 +32,8 @@ Answer `y` to add the marketplace, then pick a scope (user scope loads it in eve
 From a shell:
 
 ```
-claude plugin install hud --marketplace iamsreeharims/hud
+claude plugin install hud --marketplace sreeharims98/hud
 ```
 
 In the desktop app, where `/plugin` does not run: click **+** next to the prompt box, then
-**Plugins**, **Add marketplace** with `iamsreeharims/hud`, then **Add plugin**.
+**Plugins**, **Add marketplace** with `sreeharims98/hud`, then **Add plugin**.
